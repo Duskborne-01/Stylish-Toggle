@@ -322,7 +322,7 @@ body {
   box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.footer span {
+.footer .name {
   font-family: cursive, sans-serif;
 }
 
